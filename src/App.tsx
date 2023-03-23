@@ -17,7 +17,7 @@ function App() {
     <div className="flex flex-col min-h-screen min-w-full bg-white">
       <nav className="h-32 grid place-items-center">
         <div className="flex flex-col items-center gap-y-1 text-gray-600">
-          <h1 className="text-2xl font-bold text-purple-500">🦄 Rive Demos</h1>
+          <h1 className="text-2xl font-bold text-[#47D3F9]">🦄 Rive Demos</h1>
           <p className="text-gray-500">Super cool rive demos by Carlo</p>
         </div>
       </nav>
@@ -36,7 +36,7 @@ function App() {
           </div>
         </div>
       </main>
-      <footer className="grid place-items-center text-purple-400 h-20">
+      <footer className="grid place-items-center text-[#47D3F9] h-20">
         <div className="flex gap-x-5">
           <a
             target="_blank"
